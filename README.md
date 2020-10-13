@@ -23,6 +23,8 @@
 
 
 ## Documentation.
+#### Symmetrical Encryption.
+![Symmetrical Encryption.](symmetric-encryption.png)
 
 
 
